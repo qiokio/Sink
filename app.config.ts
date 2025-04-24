@@ -2,7 +2,7 @@ export default defineAppConfig({
   title: 'Sink',
   email: '/',
   github: 'https://github.com/qiokio/sink',
-  twitter: 'https://sink.cool/kai',
+  twitter: '/',
   telegram: '/',
   mastodon: '/',
   blog: 'https://prooo.me',
