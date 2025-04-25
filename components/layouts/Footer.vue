@@ -18,8 +18,9 @@ const { title, email, telegram, blog, twitter, mastodon, github } = useAppConfig
         target="_blank"
         title="PROOO"
       >
-        &copy; {{ new Date().getFullYear() }} Products of PROOO
+        &copy; {{ new Date().getFullYear() }} Powered by PROOO
       </a>
+      <!---
       <span
         class="inline-flex justify-center mt-4 space-x-5 sm:ml-auto sm:mt-0 sm:justify-start"
       >
@@ -98,6 +99,7 @@ const { title, email, telegram, blog, twitter, mastodon, github } = useAppConfig
           />
         </a>
       </span>
+      --->
     </div>
   </section>
 </template>
